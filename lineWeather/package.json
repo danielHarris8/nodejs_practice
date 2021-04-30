@@ -1,0 +1,19 @@
+{
+  "name": "lineweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "linebot": "^1.6.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
