@@ -3,9 +3,9 @@ var linebot = require('linebot');
 var getWeather =  require('./getWeather');
 
 var bot = linebot({
-  channelId: '1655595233',
-  channelSecret: '8a231c3cd2b7046b97871883960d78d5',
-  channelAccessToken: 'zplgtwugnxLKCTwd5ZgXfgI98kB6jlnLPnbH2fMsMPkPIP1dzz6mJVFbbnTq8qSqYpePazBnD2DSBaLVCet/8Xp6tzyTn7R+QFeOiv5V2WP1NPiJUrfTnTghnKrqr/bbycVIh7aJ1GCm/MjjCz5URgdB04t89/1O/w1cDnyilFU='
+  channelId: '',
+  channelSecret: '',
+  channelAccessToken: ''
 });
 
 
